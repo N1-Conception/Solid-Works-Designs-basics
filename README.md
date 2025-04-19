@@ -1,17 +1,64 @@
-This Repository contain 3D CAD models Created using SOLIDWORKS. It includes part files(.SLDPRT), and (.PNG) files.
+# ⚙ SolidWorks Studio Repository ⚙
 
-📁 Contents
-> Parts/ – Individual component models
-> Drawings/ – Technical drawings and blueprints
+Welcome to the *SolidWorks Studio* — a curated collection of 3D CAD models designed using SolidWorks. This repo is a part of my personal learning journey and portfolio to showcase mechanical design projects.
 
-🧰 Requirements
-> SOLIDWORKS 2022 (or later)
-> Compatible viewer (e.g., eDrawings) for viewing without SOLIDWORKS
+---
 
-🎯 Purpose
-> These models were created as part of my journey to learn and practice CAD design using SOLIDWORKS.
-> They're shared here to showcase progress, help others learn, and promote open collaboration.
+## 📁 Project Structure
 
-📝 Notes
-> Models are for educational/demonstration purposes.
-> If you use or modify these files, credit is appreciated
+Each folder/project contains:
+- *.SLDPRT /  files
+- *Rendered Preview Image*
+- *README.md* (project details)
+- *LICENSE* (MIT)
+
+---
+
+## 🎯 Purpose
+
+This repository serves as a platform to:
+- Practice parametric modeling & 3D design
+- Build a design portfolio using SolidWorks
+- Share reusable parts with others in the CAD community
+
+---
+
+## 🛠 Tools Used
+
+- *SolidWorks 2023*
+- *SolidWorks Visualize* (for rendering)
+- *Git + GitHub*
+
+---
+
+## 🖼 Preview Example
+
+![Model Preview](./your-image-name.jpg)  
+Replace with actual image file
+
+---
+
+## 📌 How to Open Files?
+
+To view or use the models:
+- Open .SLDPRT or .SLDASM files using *SolidWorks*
+- Or use *eDrawings Viewer* (free) for quick previews:  
+  [Download eDrawings](https://www.edrawingsviewer.com/)
+
+---
+
+## ⚖ License
+
+All files are shared under the [MIT License](./LICENSE).  
+You’re welcome to explore, remix, and learn — just give credit.
+
+---
+
+## ☕ Connect With Me
+
+- *GitHub*: [N1-Conception](https://github.com/N1-Conception)
+- *Portfolio Website*: Coming soon
+
+---
+
+> *“The details are not the details. They make the design.” – Charles Eames*
