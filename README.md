@@ -7,9 +7,13 @@ Welcome to the *SolidWorks Studio* — a curated collection of 3D CAD models des
 ## 📁 Project Structure
 
 Each folder/project contains:
+
 - *.SLDPRT /  files
+
 - *Rendered Preview Image*
+
 - *README.md* (project details)
+
 - *LICENSE* (MIT)
 
 ---
@@ -17,8 +21,11 @@ Each folder/project contains:
 ## 🎯 Purpose
 
 This repository serves as a platform to:
+
 - Practice parametric modeling & 3D design
+
 - Build a design portfolio using SolidWorks
+
 - Share reusable parts with others in the CAD community
 
 ---
@@ -26,24 +33,23 @@ This repository serves as a platform to:
 ## 🛠 Tools Used
 
 - *SolidWorks 2023*
+
 - *SolidWorks Visualize* (for rendering)
+
 - *Git + GitHub*
 
 ---
 
-## 🖼 Preview Example
-
-![Model Preview](./your-image-name.jpg)  
-Replace with actual image file
 
 ---
 
 ## 📌 How to Open Files?
 
 To view or use the models:
+
 - Open .SLDPRT or .SLDASM files using *SolidWorks*
-- Or use *eDrawings Viewer* (free) for quick previews:  
-  [Download eDrawings](https://www.edrawingsviewer.com/)
+
+
 
 ---
 
